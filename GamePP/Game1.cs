@@ -10,6 +10,7 @@ namespace GamePP
         private SpriteBatch _spriteBatch;
         public int Score;
         public int playerHeal;
+        public int Speed;
 
         public Game1()
         {

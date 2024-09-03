@@ -11,7 +11,7 @@ namespace GamePP
         public int Score;
         public int playerHeal;
         public int Speed;
-
+        public int jump;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);

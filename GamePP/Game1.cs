@@ -8,6 +8,7 @@ namespace GamePP
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        public int Score;
 
         public Game1()
         {
